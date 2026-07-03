@@ -11,7 +11,7 @@
 - Analise e desenvolvimento de sistemas
   
 - SOBRE MIM:
-- ATualmente estou estudando Python para back-end🤞
+- Atualmente estou estudando Python para back-end🤞
 - 📫 Email para contato: wullerdev@gmail.com
 
  ##
